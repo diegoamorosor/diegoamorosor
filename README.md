@@ -1,6 +1,7 @@
 <h1 align="center"><b>Hi, I'm Diego Amoroso Rivera</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<img align="right" width=300px alt="Coding" src="https://i.pinimg.com/originals/18/c8/61/18c8610acd417bcabce5c4fbfa1829fd.gif" /> **About me**
+<img align="right" width=300px alt="Coding" src="https://i.pinimg.com/originals/18/c8/61/18c8610acd417bcabce5c4fbfa1829fd.gif" /> 
+
 I am a final-year Computer Science Engineering student at Universidad del Azuay in Cuenca, Ecuador, currently completing my thesis to obtain my degree. With a solid foundation in various programming languages and expertise in areas such as Artificial Intelligence, Machine Learning, Cybersecurity, Deep Learning, and Data Mining, I am passionate about solving complex problems through technology. 
 
 I am a highly effective and productive team player, always striving to deliver innovative solutions in collaborative environments. My approach to work is grounded in efficiency, precision, and a constant drive to learn and apply cutting-edge technologies to real-world challenges.
