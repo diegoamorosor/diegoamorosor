@@ -13,7 +13,7 @@ I am a highly effective and productive team player, always striving to deliver i
 
 ---
 ## My Skills Include:
-<h4>Languages and Tools</h4>
+<h3>🧰Languages and Tools</h4>
 <span>
   <img align"left" alt="html" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
   <img align"left" alt="css" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
@@ -39,7 +39,6 @@ I am a highly effective and productive team player, always striving to deliver i
   <img align"left" alt="Oracle" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg">
 </span>
 
-#
 ## Check out my Social Media
 
 <a href="#" target="_blank">
