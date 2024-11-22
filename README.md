@@ -42,6 +42,6 @@ I am a highly effective and productive team player, always striving to deliver i
 
 ## Check out my Social Media
 
-<a href="#" target="_blank">
+<a href="https://www.linkedin.com/in/diegoamorosor/" target="_blank">
   <img width="150px" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
