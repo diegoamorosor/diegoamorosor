@@ -10,6 +10,7 @@ I am a highly effective and productive team player, always striving to deliver i
 - 💡 I am open to collaborating on innovative tech projects and solving complex problems.
 - ✔ Feel free to reach out if you're interested in working together or need assistance—I am always happy to help!
 - Outside of tech, I enjoy 💻 coding, 🏞️ spending time in nature, 🏋️‍♂️ playing sports, and 📚 reading.
+- 🌐 Learn more about me and my work at [diegoamoroso.com](https://diegoamoroso.com)
 - 📫 You can contact me at: <a href="mailto:diegoamorosor@proton.me">diegoamorosor@proton.me</a>
 
 ---
