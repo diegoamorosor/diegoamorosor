@@ -46,3 +46,6 @@ I am a highly effective and productive team player, always striving to deliver i
 <a href="https://www.linkedin.com/in/diegoamorosor/" target="_blank">
   <img width="150px" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
+<a href="https://www.diegoamoroso.com/" target="_blank">
+  <img width="150px" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website">
+</a>
